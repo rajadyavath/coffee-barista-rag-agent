@@ -41,9 +41,7 @@ Coffee Menu
 
 Successfully deployed on Google Cloud Run.
 
-## Screenshots
 
-(Add screenshots here)
 
 ## Author
 
